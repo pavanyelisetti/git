@@ -1,0 +1,27 @@
+                                                     css->cascading style sheet
+three ways to write css code:
+1.internal css
+2.external css
+3.inline css
+sample code for external css
+<html>
+<head>
+<link rel="stylesheet" href="sample code">
+</head>\
+<style> body{background-color:green;color:yellow;}
+</style>
+<body>
+<h1>welcome to css<h1>
+</body>
+</html>
+
+selectors:
+----------
+1.tag selector
+body{background color :green}
+h1{                }
+<p>{               }
+2.id selector
+
+3.universal selector
+4.grouping selector
